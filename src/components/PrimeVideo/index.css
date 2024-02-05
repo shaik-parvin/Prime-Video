@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prime-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.prime-image {
+  width: 100%;
+}
+
+.movies-container {
+  width: 90%;
+  margin: auto;
+}
+
+.movie-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-left: 20px;
+}
+
